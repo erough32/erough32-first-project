@@ -1,0 +1,10 @@
+{
+    "host":"23.88.71.233",
+    "port":"63306",
+    "user":"noyacg",
+    "pass":"tM8FcYdRM4GTakBx",
+    "database":"noyacg",
+    "userTable":"user",
+    "bookTable":"book",
+    "favoritesTable":"favorites"
+}
